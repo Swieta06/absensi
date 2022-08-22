@@ -1,4 +1,4 @@
-cmake==3.22.3
+Cmake
 dlib
 face-recognition==1.3.0
 face-recognition-models==0.3.0
