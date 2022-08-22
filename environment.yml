@@ -7,5 +7,4 @@
      - opencv
      - face_recognition
      - streamlit
-     - streamlit-webrtc
      - psutil
